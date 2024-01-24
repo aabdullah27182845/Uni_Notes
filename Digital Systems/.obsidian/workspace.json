@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "2b23a5234ecda92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "079d2dcce37be443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2c63821de5faaa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From Abstract Machines to Real Machines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afe92664d0839009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State and Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf9f32ded60bc0c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3300f2f346efc62b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04af6a3e78adba08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8fade2586b4d234",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c9f30be980948a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a0bc3f9a194b1b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f259fb4a0b9d20a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c73711154c72d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "State and Instructions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acb67ac4fc2310e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "State and Instructions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "283c498291a2ee11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c1cbe77281cc947",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "State and Instructions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "afe92664d0839009",
+  "lastOpenFiles": [
+    "Images/Pasted image 20240119100304.png",
+    "Images/Pasted image 20240119094356.png",
+    "Overview.md",
+    "State and Instructions.md",
+    "Pasted image 20240119092741.png",
+    "Images/Pasted image 20240119092858.png",
+    "Images/Pasted image 20240119091539.png",
+    "From Abstract Machines to Real Machines.md",
+    "Images",
+    "Images/Pasted image 20240117133332.png",
+    "Welcome.md"
+  ]
+}

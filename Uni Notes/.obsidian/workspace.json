@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "cbf43ce189bbbcdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "45398bb22a6f9e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbd107334774b4f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f20f10712e236288",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4387d7958408c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9be7ab75a063334b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e5cded29e96f736",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c01dfa142da7acc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ededc0ed75f6d115",
+    "type": "split",
+    "children": [
+      {
+        "id": "976aacf51a052738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f06e258a9b1ccc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "051c23d7b017cd98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96469acb3a6ba39e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a85735745c58c7b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dbd107334774b4f9",
+  "lastOpenFiles": [
+    "Continuous Mathematics/Derivatives and Taylor's Theorem.md",
+    "Continuous Mathematics",
+    "Functional Programming/Sudoku (1st).md",
+    "Functional Programming/Right and Left Folds.md",
+    "Functional Programming/Sequencing and Monads.md",
+    "Images/Pasted image 20240111132631.png",
+    "Functional Programming/Countdown (I).md",
+    "Functional Programming/Some Efficiency Concerns.md",
+    "Functional Programming/Types and Trees.md",
+    "Functional Programming/Sudoku (2nd).md",
+    "Functional Programming/Expressions, Types and Polymorphism.md",
+    "Images/Pasted image 20240110132418.png",
+    "Images/Pasted image 20240110132120.png",
+    "Functional Programming/Proof by Induction.md",
+    "Images/Pasted image 20240110100531.png",
+    "Images/Pasted image 20240109185703.png",
+    "Images",
+    "Images/Pasted image 20240109183131.png",
+    "Functional Programming/Sorting.md",
+    "Some Optmisations.md",
+    "Functional Programming/Defining Functions on Lists.md",
+    "Images/Pasted image 20240109152409.png",
+    "Functional Programming/Functions and Lists.md",
+    "Functional Programming/Overloading and Evaluation.md",
+    "Functional Programming/Definitions.md",
+    "Selectors, Discriminators, Deconstructors.md",
+    "Types.md",
+    "Numbers less than 100.md",
+    "Programs as functions.md",
+    "Sequences.md",
+    "Functional Programming",
+    "programs as functions.md",
+    "Untitled.canvas",
+    "1], [1,2], [3,4,5,6.md",
+    "Int.md",
+    "Welcome.md"
+  ]
+}

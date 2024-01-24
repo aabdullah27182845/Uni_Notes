@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "7f4b3d63f4e989ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fc527b23b72b668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cf50098d0fe5639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivatives and Taylor's theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a7277bf95a6e070",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Source/cm-notes.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2190d81331fa6e0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dada417bc39fa7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df24d83ae7a05096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5d59c3560abbffe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c5f09c6d02a4462",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a710fa8b97293978",
+    "type": "split",
+    "children": [
+      {
+        "id": "864e64faa451ca4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca391d9c80216622",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Derivatives and Taylor's theorem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc24164ae66238f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Derivatives and Taylor's theorem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d16e18a708ae27b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "525efe12f6ab74ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Derivatives and Taylor's theorem.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0cf50098d0fe5639",
+  "lastOpenFiles": [
+    "Optimisation.md",
+    "Derivatives and Taylor's theorem.md",
+    "Algorithms for Numerical Integration.md",
+    "Images/Pasted image 20240123164835.png",
+    "Images/Pasted image 20240123155832.png",
+    "Taylor's Theorem (n dimensions, scalar function).md",
+    "Source/cm-notes.pdf",
+    "Images/Pasted image 20240114185345.png",
+    "Images/Pasted image 20240114140941.png",
+    "Images/Pasted image 20240113214208.png",
+    "Images/Pasted image 20240113213810.png",
+    "Images/Pasted image 20240113174046.png",
+    "Source",
+    "Images/Pasted image 20240113164747.png",
+    "Images/Pasted image 20240113143034.png",
+    "Images/Pasted image 20240113143008.png",
+    "Images",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
