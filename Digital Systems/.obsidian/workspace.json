@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "079d2dcce37be443",
+        "id": "a7089bfa7887a261",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c63821de5faaa1",
+            "id": "14d2974d55595f35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From Abstract Machines to Real Machines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afe92664d0839009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "State and Instructions.md",
+                "file": "Building a Program.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State and Instructions.md",
+                "file": "Building a Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State and Instructions.md",
+                "file": "Building a Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State and Instructions.md"
+                "file": "Building a Program.md"
               }
             }
           }
@@ -159,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe92664d0839009",
+  "active": "14d2974d55595f35",
   "lastOpenFiles": [
+    "Images/Pasted image 20240124085406.png",
     "Images/Pasted image 20240119100304.png",
     "Images/Pasted image 20240119094356.png",
-    "Overview.md",
-    "State and Instructions.md",
-    "Pasted image 20240119092741.png",
     "Images/Pasted image 20240119092858.png",
     "Images/Pasted image 20240119091539.png",
+    "Images/Pasted image 20240117133332.png",
+    "Building a Program.md",
+    "State and Instructions.md",
+    "Overview.md",
+    "Pasted image 20240119092741.png",
     "From Abstract Machines to Real Machines.md",
     "Images",
-    "Images/Pasted image 20240117133332.png",
     "Welcome.md"
   ]
 }

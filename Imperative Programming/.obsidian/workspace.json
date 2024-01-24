@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "cc453ceaeb76e91e",
+            "id": "f3afc19a27c0e544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invariants.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5258da2eac612749",
+            "id": "baf450d49c4ace07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invariants - 2.md",
+                "file": "String Searching.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invariants - 2.md",
+                "file": "String Searching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invariants - 2.md",
+                "file": "String Searching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invariants - 2.md"
+                "file": "String Searching.md"
               }
             }
           }
@@ -171,11 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5258da2eac612749",
+  "active": "baf450d49c4ace07",
   "lastOpenFiles": [
+    "Introduction - TBC.md",
+    "String Searching.md",
+    "Testing.md",
     "Invariants.md",
     "Invariants - 2.md",
-    "Introduction - TBC.md",
     "Welcome.md"
   ]
 }

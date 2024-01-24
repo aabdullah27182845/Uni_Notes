@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Divide-and-Conquer.md",
+                "file": "Program Cost and Asymptotic Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Divide-and-Conquer.md",
+                "file": "Program Cost and Asymptotic Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divide-and-Conquer.md"
+                "file": "Program Cost and Asymptotic Notation.md"
               }
             }
           }
