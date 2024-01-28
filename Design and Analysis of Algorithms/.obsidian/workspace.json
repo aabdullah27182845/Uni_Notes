@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program Cost and Asymptotic Notation.md",
+                "file": "Divide-and-Conquer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program Cost and Asymptotic Notation.md",
+                "file": "Divide-and-Conquer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program Cost and Asymptotic Notation.md"
+                "file": "Divide-and-Conquer.md"
               }
             }
           }
@@ -159,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "571c83db6363652e",
+  "active": "159190bac4ce3899",
   "lastOpenFiles": [
-    "Images/Pasted image 20240122192654.png",
-    "Images/Pasted image 20240122172958.png",
     "Program Cost and Asymptotic Notation.md",
     "Divide-and-Conquer.md",
+    "Images/Pasted image 20240122192654.png",
+    "Images/Pasted image 20240122172958.png",
     "Images/Pasted image 20240122154805.png",
     "Images",
     "Images/Screenshot 2024-01-22 143612.png",

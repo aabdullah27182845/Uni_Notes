@@ -36,7 +36,7 @@ Merge-Sort(A,p,r)
 Input : An integer array A with indices p < r
 Output: The subarray A[p..r) is sorted in non-decreasing order.
 1 if r > p + 1
-2     q = b(p + r) // 2
+2     q = (p + r) // 2
 3     Merge-Sort(A,p,q)
 4     Merge-Sort(A,q,r)
 5     Merge(A,p,q,r)

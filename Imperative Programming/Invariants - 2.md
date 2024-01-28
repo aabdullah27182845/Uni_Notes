@@ -1,7 +1,7 @@
 
 We will recap with the utility function for adding up milk from the last notes:
 
-```
+```scala
 def findsum(a : Array[Int]) : Int = {
 	val n = a.size
 	var total = 0; var i = 0
@@ -19,7 +19,7 @@ We want to be able to provide the arguments on the command line, e .g.
 
 When extra arguments are provided on the command line, they are copied into the parameter `args` of the main function
 
-```
+```scala
 def main(args : Array[String]) : Unit
 ```
 
@@ -27,7 +27,7 @@ Note that these are Strings; we will need to convert them into `Int`s in order t
 
 Here is the main function for this program then:
 
-```
+```scala
 def main(args : Array[String]) : Unit = {
 	val n = args.size
 	val a = new Array[Int](n)
@@ -47,7 +47,7 @@ The `for` loop
 
 is equivalent to
 
-```
+```scala
 var i = a
 while (i < b) { Body; i = i+1 }
 ```
@@ -56,7 +56,7 @@ assuming `Body` doesn't change `i`.
 
 There are very useful methods built into the `Array` class. One of them is called `map`. It can shorten programs with loops with just a single statement and an anonymous function that is to be applied an each element of the array. Here is an example
 
-```
+```scala
 val a = args.map(_.toInt)  \\ or can be written in
 val b = args.mao(x => x.toInt)
 ```
@@ -72,7 +72,7 @@ We will develop three programs to calculate `x^n`, where `x` and `n` are supplie
 
 Here's a simple and straightforward definition of this function:
 
-```
+```scala
 def exp(x: Double, n: Long) : Double = 
 	if (n==0) 1 else x*exp(x,n-1)
 ```
@@ -81,7 +81,7 @@ Unfortunately, if we consider the binary length of the input of this program, we
 
 Before we optimise our algorithm, which is actually an easy endeavour due to the simple nature of the computation, let's first consider an iterative definition for the same algorithm:
 
-```
+```scala
 def exp(x: Double, n: Long) : Double = {
 	require(n>=0)
 	var y = 1.0 ; i : Long = 0
@@ -97,7 +97,7 @@ Now, let us take on the endeavour of trying to develop a faster version. The fir
 
 Our code will test if `k` is even, using the test `if (k%2 == 0)`. If `k` is even, we can calculate this as follows:
 
-```
+```scala
 y * z^k = y * z^(2 * k/2)
         = y * (z^2) ^ (k/2)
         = y * (z*z) ^ (k/2)
@@ -105,7 +105,7 @@ y * z^k = y * z^(2 * k/2)
 
 So now, here is our main code:
 
-```
+```scala
 def exp(x:Double, n:Long) : Double = {
 	require(n>=0)
 	var y = 1.0; var z = x; var k = n
