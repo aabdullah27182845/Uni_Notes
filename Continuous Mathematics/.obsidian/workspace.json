@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "be56636dcf8d0b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accuracy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3a7277bf95a6e070",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms for Numerical Integration.md",
+                "file": "Accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms for Numerical Integration.md",
+                "file": "Accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms for Numerical Integration.md"
+                "file": "Accuracy.md"
               }
             }
           }
@@ -143,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,24 +169,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cf50098d0fe5639",
+  "active": "be56636dcf8d0b8c",
   "lastOpenFiles": [
-    "Optimisation.md",
-    "Derivatives and Taylor's theorem.md",
     "Algorithms for Numerical Integration.md",
-    "Images/Pasted image 20240123164835.png",
-    "Images/Pasted image 20240123155832.png",
+    "Accuracy.md",
+    "Images/Figure 3.6.png",
+    "Derivatives and Taylor's theorem.md",
+    "Images/Figure 3.5.png",
+    "Images/Example 3.1.png",
+    "Images/Pasted image 20240114185345.png",
+    "Images/Figure 3.2.png",
+    "Images/Figure 3.4.png",
+    "Images/Figure 3.3.png",
+    "Optimisation.md",
     "Taylor's Theorem (n dimensions, scalar function).md",
     "Source/cm-notes.pdf",
-    "Images/Pasted image 20240114185345.png",
     "Images/Pasted image 20240114140941.png",
     "Images/Pasted image 20240113214208.png",
     "Images/Pasted image 20240113213810.png",
-    "Images/Pasted image 20240113174046.png",
     "Source",
-    "Images/Pasted image 20240113164747.png",
-    "Images/Pasted image 20240113143034.png",
-    "Images/Pasted image 20240113143008.png",
     "Images",
     "Welcome.md",
     "create a link.md"

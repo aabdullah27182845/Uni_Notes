@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "159190bac4ce3899",
+            "id": "bb4307e7d4c27fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divide-and-Conquer.md",
+                "file": "Data Structures (Heaps and Priority Queues).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Divide-and-Conquer.md",
+                "file": "Data Structures (Heaps and Priority Queues).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Divide-and-Conquer.md",
+                "file": "Data Structures (Heaps and Priority Queues).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divide-and-Conquer.md"
+                "file": "Data Structures (Heaps and Priority Queues).md"
               }
             }
           }
@@ -159,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "159190bac4ce3899",
+  "active": "bb4307e7d4c27fc2",
   "lastOpenFiles": [
+    "Data Structures (Heaps and Priority Queues).md",
+    "Images/Heap sort visual example.png",
+    "Images/Make-Max-Heap Example.png",
+    "Images/Max-Heapify Example.png",
+    "Images/Max-Heap Example.png",
+    "Images/Heap Example 1.png",
     "Program Cost and Asymptotic Notation.md",
     "Divide-and-Conquer.md",
     "Images/Pasted image 20240122192654.png",
