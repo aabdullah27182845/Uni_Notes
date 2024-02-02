@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Optimisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Optimisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Optimisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accuracy.md"
+                "file": "Optimisation.md"
               }
             }
           }
@@ -172,16 +172,16 @@
   "active": "be56636dcf8d0b8c",
   "lastOpenFiles": [
     "Algorithms for Numerical Integration.md",
+    "Optimisation.md",
+    "Derivatives and Taylor's theorem.md",
     "Accuracy.md",
     "Images/Figure 3.6.png",
-    "Derivatives and Taylor's theorem.md",
     "Images/Figure 3.5.png",
     "Images/Example 3.1.png",
     "Images/Pasted image 20240114185345.png",
     "Images/Figure 3.2.png",
     "Images/Figure 3.4.png",
     "Images/Figure 3.3.png",
-    "Optimisation.md",
     "Taylor's Theorem (n dimensions, scalar function).md",
     "Source/cm-notes.pdf",
     "Images/Pasted image 20240114140941.png",
