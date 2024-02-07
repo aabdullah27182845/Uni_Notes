@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimisation.md",
+                "file": "Accuracy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3177365b2a6f62e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms for Root-Finding.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "right": {
     "id": "a710fa8b97293978",
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimisation.md",
+                "file": "Algorithms for Root-Finding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimisation.md",
+                "file": "Algorithms for Root-Finding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimisation.md"
+                "file": "Algorithms for Root-Finding.md"
               }
             }
           }
@@ -169,12 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be56636dcf8d0b8c",
+  "active": "df24d83ae7a05096",
   "lastOpenFiles": [
-    "Algorithms for Numerical Integration.md",
-    "Optimisation.md",
-    "Derivatives and Taylor's theorem.md",
     "Accuracy.md",
+    "Algorithms for Root-Finding.md",
+    "Images/Figure 4.2.png",
+    "Images/Figure 4.1.png",
+    "Optimisation.md",
+    "Algorithms for Numerical Integration.md",
+    "Derivatives and Taylor's theorem.md",
     "Images/Figure 3.6.png",
     "Images/Figure 3.5.png",
     "Images/Example 3.1.png",
@@ -185,8 +200,6 @@
     "Taylor's Theorem (n dimensions, scalar function).md",
     "Source/cm-notes.pdf",
     "Images/Pasted image 20240114140941.png",
-    "Images/Pasted image 20240113214208.png",
-    "Images/Pasted image 20240113213810.png",
     "Source",
     "Images",
     "Welcome.md",

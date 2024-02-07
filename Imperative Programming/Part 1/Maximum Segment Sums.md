@@ -121,6 +121,27 @@ $$Suppose we know $$mrss = \max\{segsum(a,p,n-1)\;|\;0\leq p\leq n-1\}$$from the
 & \quad 0 \leq n \leq N
 \end{align*}
 $$
-So the maximum such segment sum is `(mrss + a(n-1)) max 0`.
+So the maximum such segment sum is `(mrss + a(n-1)) max 0)`.
 
-We therefore use the invariant 
+We therefore use the invariant $$
+\begin{aligned}
+mss &=\max \{ \text{segsum}(a,p,q)\;|\;0\leq p\leq q\leq n \} \;∧ \\
+mrss &=\max\{ \text{segsum}(a,p,n)\;|\;0\leq p\leq n\}\;∧ \\
+& 0\leq n \leq N
+\end{aligned}$$This gives the following code which runs in time $O(N)$.
+
+```scala
+var n = 0; var mss = 0; var mrss = 0
+while(n<N){
+	n = n+1
+	mrss = (mrss + a(n-1)) max 0
+	mss = mss max mrss
+}
+```
+
+This can be tested with some pre-calculated examples...
+
+```scala
+test("one"){assert(maxsegsum3(Array(3, -4, 2, 6, 0, -8, 4)) === 8) }
+```
+

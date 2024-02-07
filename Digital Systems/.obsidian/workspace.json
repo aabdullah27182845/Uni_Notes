@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "546fdd6ccbb2c924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finite Width Arithmetic & Branching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7761b7e3cfa18bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subroutines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasheets and Programming.md",
+                "file": "Subroutines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datasheets and Programming.md",
+                "file": "Subroutines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datasheets and Programming.md"
+                "file": "Subroutines.md"
               }
             }
           }
@@ -146,12 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14d2974d55595f35",
+  "active": "04af6a3e78adba08",
   "lastOpenFiles": [
+    "Images/Pasted image 20240206173256.png",
+    "Images/Pasted image 20240206172828.png",
+    "Finite Width Arithmetic & Branching.md",
+    "Subroutines.md",
+    "Pasted image 20240206155628.png",
+    "Datasheets and Programming.md",
     "From Abstract Machines to Real Machines.md",
     "Building a Program.md",
     "Images/Pasted image 20240124085406.png",
-    "Datasheets and Programming.md",
     "Images/Pasted image 20240119100304.png",
     "Images/Pasted image 20240119094356.png",
     "Images/Pasted image 20240119092858.png",

@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b907715428f28b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction - TBC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a508936da120b32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Printing Numbers in Decimal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0782290004b9bcba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "612335a220585b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quicksort.md",
+                "file": "Part 1/Quicksort.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maximum Segment Sums.md",
+                "file": "Part 1/Maximum Segment Sums.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dbbe6265eead48f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part 2/Modularisation and OOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maximum Segment Sums.md",
+                "file": "Part 2/Modularisation and OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maximum Segment Sums.md",
+                "file": "Part 2/Modularisation and OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maximum Segment Sums.md"
+                "file": "Part 2/Modularisation and OOP.md"
               }
             }
           }
@@ -195,21 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd66728d21db8226",
+  "active": "f97d284e64960741",
   "lastOpenFiles": [
-    "Pasted image 20240201153607.png",
-    "Quicksort.md",
-    "Maximum Segment Sums.md",
+    "Problem Sheets",
+    "Part 1",
+    "Part 2",
+    "Part 1/Maximum Segment Sums.md",
+    "Part 2/Modularisation and OOP.md",
+    "Images/Pasted image 20240201153607.png",
+    "Part 1/Quicksort.md",
     "Images",
-    "Binary Search.md",
+    "Part 1/Binary Search.md",
     "Images/Pasted image 20240131143336.png",
     "Images/Pasted image 20240131142029.png",
-    "Printing Numbers in Decimal.md",
-    "Invariants - 2.md",
-    "String Searching.md",
-    "Introduction - TBC.md",
-    "Testing.md",
-    "Invariants.md",
+    "Part 1/Printing Numbers in Decimal.md",
+    "Part 1/Invariants - 2.md",
+    "Part 1/String Searching.md",
+    "Part 1/Introduction - TBC.md",
+    "Part 1/Testing.md",
+    "Part 1/Invariants.md",
     "Welcome.md"
   ]
 }

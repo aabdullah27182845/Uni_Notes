@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2142280dbee415c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures (Heaps and Priority Queues).md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures (Heaps and Priority Queues).md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures (Heaps and Priority Queues).md"
+                "file": "Dynamic Programming.md"
               }
             }
           }
@@ -159,21 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb4307e7d4c27fc2",
+  "active": "2142280dbee415c0",
   "lastOpenFiles": [
-    "Divide-and-Conquer.md",
-    "Program Cost and Asymptotic Notation.md",
+    "Images/Pasted image 20240206133004.png",
+    "Images/Pasted image 20240206132040.png",
     "Data Structures (Heaps and Priority Queues).md",
+    "Dynamic Programming.md",
+    "Images/Pasted image 20240206130309.png",
+    "Images/Pasted image 20240205181206.png",
+    "Divide-and-Conquer.md",
+    "Images/Pasted image 20240205174503.png",
+    "Program Cost and Asymptotic Notation.md",
     "Images/Heap sort visual example.png",
     "Images/Make-Max-Heap Example.png",
     "Images/Max-Heapify Example.png",
     "Images/Max-Heap Example.png",
     "Images/Heap Example 1.png",
     "Images/Pasted image 20240122192654.png",
-    "Images/Pasted image 20240122172958.png",
-    "Images/Pasted image 20240122154805.png",
     "Images",
-    "Images/Screenshot 2024-01-22 143612.png",
     "Welcome.md"
   ]
 }
