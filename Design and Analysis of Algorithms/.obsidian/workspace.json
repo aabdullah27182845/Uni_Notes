@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fee38acbf6ed8cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Decomposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Graph Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Graph Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "Graph Decomposition.md"
               }
             }
           }
@@ -171,12 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2142280dbee415c0",
+  "active": "fee38acbf6ed8cbc",
   "lastOpenFiles": [
+    "Images/DFS.png",
+    "Images/Adjacency Lists.png",
+    "Images/Adjacency Matrix.png",
+    "Dynamic Programming.md",
+    "Graph Decomposition.md",
     "Images/Pasted image 20240206133004.png",
     "Images/Pasted image 20240206132040.png",
     "Data Structures (Heaps and Priority Queues).md",
-    "Dynamic Programming.md",
     "Images/Pasted image 20240206130309.png",
     "Images/Pasted image 20240205181206.png",
     "Divide-and-Conquer.md",
@@ -185,9 +201,6 @@
     "Images/Heap sort visual example.png",
     "Images/Make-Max-Heap Example.png",
     "Images/Max-Heapify Example.png",
-    "Images/Max-Heap Example.png",
-    "Images/Heap Example 1.png",
-    "Images/Pasted image 20240122192654.png",
     "Images",
     "Welcome.md"
   ]

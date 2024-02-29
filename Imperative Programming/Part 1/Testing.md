@@ -88,7 +88,7 @@ However, it's normally better to use a proper testing framework, to allow tests 
 
 A `ScalaTest` script is simply a Scala program such as the following: 
 
-```
+```scala
 import org.scalatest.funsuite.AnyFunSuite
 // or import org.scalatest.FunSuite with
 // ScalaTest 3.0 or earlier

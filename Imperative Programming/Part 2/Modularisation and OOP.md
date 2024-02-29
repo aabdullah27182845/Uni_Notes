@@ -270,4 +270,3 @@ class PlainText{
 - Inheritance can lead to deep and complex hierarchies, making the code harder to understand and maintain. In contrast, composition allows for a flatter and more manageable class structure.
 - Changes in the superclass can have unintended effects on subclasses, but changes in one component do not affect others.
 - Inheritance is preferred when there is an ”is-a” relationship between classes, like a ”Car” is-a ”Vehicle.” Composition is preferred when there is a ”has-a” relationship between classes, like a ”Car” has-a ”Engine".
-
