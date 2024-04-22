@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "7f4b3d63f4e989ba",
+    "id": "050e0a3f731666e7",
     "type": "split",
     "children": [
       {
-        "id": "7d7d56bd999ad77f",
+        "id": "50da8839aa90f30c",
         "type": "tabs",
         "children": [
           {
-            "id": "0b87b9915fc9a358",
+            "id": "378473e95f5697bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2190d81331fa6e0b",
+    "id": "4549072dc4670015",
     "type": "split",
     "children": [
       {
-        "id": "dada417bc39fa7eb",
+        "id": "097dd9d7a0fd86f7",
         "type": "tabs",
         "children": [
           {
-            "id": "df24d83ae7a05096",
+            "id": "90904e5ef5b2aec4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "b5d59c3560abbffe",
+            "id": "eae6d82346d0a155",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "5c5f09c6d02a4462",
+            "id": "b7226eb1121ecb4c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 300
   },
   "right": {
-    "id": "a710fa8b97293978",
+    "id": "c08e3351abf96784",
     "type": "split",
     "children": [
       {
-        "id": "864e64faa451ca4a",
+        "id": "1183d754c0e2fac9",
         "type": "tabs",
         "children": [
           {
-            "id": "ca391d9c80216622",
+            "id": "cd28ad7a5778d92c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture Notes/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "bc24164ae66238f2",
+            "id": "bbf2745db7787188",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture Notes/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d16e18a708ae27b3",
+            "id": "92c3bcd591a9ade0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,18 +120,21 @@
             }
           },
           {
-            "id": "525efe12f6ab74ca",
+            "id": "d29f91a237492f5b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lecture Notes/Lecture 1.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,32 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b87b9915fc9a358",
+  "active": "378473e95f5697bf",
   "lastOpenFiles": [
-    "Source/cm-notes.pdf",
-    "Derivatives and Taylor's theorem.md",
-    "Algorithms for Numerical Integration.md",
-    "Problem Sheets/Question 4.2.md",
-    "Problem Sheets/Question 4.2.pdf",
-    "Problem Sheets",
-    "Algorithms for Root-Finding.md",
-    "Algorithms for Optimisation.md",
-    "Pasted image 20240217161321.png",
-    "Images/Figure 6.4.png",
-    "Pasted image 20240217140944.png",
-    "Images/Figure 6.3.png",
-    "Images/Figure 6.2.png",
-    "Images/Figure 6.1.png",
-    "Optimisation.md",
-    "Images/Figure 5.4.png",
-    "Images/Figure 5.3.png",
-    "Images/Figure 5.2.png",
-    "Pasted image 20240210142037.png",
-    "Accuracy.md",
-    "Taylor's Theorem (n dimensions, scalar function).md",
-    "Source",
-    "Images",
-    "Welcome.md",
-    "create a link.md"
+    "Untitled.md",
+    "Lecture Notes/Lecture 1.md",
+    "Self Study",
+    "Lecture Notes",
+    "Welcome.md"
   ]
 }
