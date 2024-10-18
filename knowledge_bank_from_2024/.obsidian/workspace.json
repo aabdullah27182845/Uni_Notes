@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "94cef35b2b0dc3ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "9babb07811151efb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb9421008a73b86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year_2/models_of_computation/Epsilon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Epsilon"
+            }
+          },
+          {
+            "id": "4280537df2e197bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year_2/compilers/Lexical Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lexical Analysis"
+            }
+          },
+          {
+            "id": "14e5afc0c683ef94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year_2/probability/Modes of Convergence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modes of Convergence"
+            }
+          },
+          {
+            "id": "53e70a36ede2acd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year_2/probability/Random Variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Variable"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78008835b220e5d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc6b8314a24677d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59731f08f7402553",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9ded04027b652a79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af550ce18bbd710a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "57463d983dafa3b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "15ce7fa162a4d774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "777139e08aa81651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "year_2/models_of_computation/Epsilon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Epsilon"
+            }
+          },
+          {
+            "id": "682f818badb26298",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "year_2/models_of_computation/Epsilon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Epsilon"
+            }
+          },
+          {
+            "id": "83e80cdb757bfad4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0c1f9613cbb559b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "year_2/models_of_computation/Epsilon.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Epsilon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb9421008a73b86e",
+  "lastOpenFiles": [
+    "imgs/Pasted image 20241018174527.png",
+    "year_2/models_of_computation/Language for M.md",
+    "year_2/models_of_computation/Epsilon.md",
+    "year_2/models_of_computation/Deterministic Finite Automata.md",
+    "year_2/models_of_computation/Operations on a DFA.md",
+    "year_2/models_of_computation/Non-deterministic Finite Automata.md",
+    "year_2/compilers/Lexical Analysis.md",
+    "year_2/probability/Modes of Convergence.md",
+    "year_2/compilers/Code for Expressions.md",
+    "year_2/compilers/Syntax Analysis.md",
+    "year_2/compilers/Formal Definition.md",
+    "year_2/machine_learning/Revision.md",
+    "year_2/compilers",
+    "year_2/machine_learning/Formal Definition.md",
+    "year_2/models_of_computation/Push-down Automaton.md",
+    "imgs/Pasted image 20241016161416.png",
+    "year_2/probability/Probability Space.md",
+    "year_2/probability/Random Variable.md",
+    "year_2/machine_learning",
+    "imgs/Pasted image 20241016104225.png",
+    "imgs/Pasted image 20241016104139.png",
+    "Welcome.md",
+    "year_2/probability",
+    "year_2/Untitled.md",
+    "imgs/Pasted image 20241013211408.png",
+    "imgs",
+    "year_2/models_of_computation",
+    "year_2"
+  ]
+}
