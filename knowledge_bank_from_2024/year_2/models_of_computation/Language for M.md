@@ -52,3 +52,5 @@ Where:
 
 ### Formal Definition for NFA:
 
+The **language** recognised by $M$ for a given NFA $M$, $L(M)$ is the a set consisting of all strings $w$ over $\Sigma$ satisfying $q_0 \xRightarrow{w} q$ where $q$ is an accepting state.
+

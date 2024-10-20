@@ -17,7 +17,7 @@ With the motivation completed, we can now move onto the formal definition of the
 A Non-deterministic finite automaton is a 5-tuple $(Q, \Sigma, \delta, q_0, F)$ such that:
 - $Q$ is the set of all of the states of the automaton. $Q \neq \emptyset$.
 - $\Sigma$ is the set of all possible inputs of the automaton, specifically, the alphabet of the automaton. $\Sigma \neq \emptyset$
-- $\delta$ is the transition function, defined as the following: $\delta : Q \times (\Sigma \cup \{\epsilon\}) \to \mathcal{P}(Q)$. A note for the distinction of this definition of $\delta$ will be made here.
+- $\delta$ is the transition function, defined as the following: $\delta : Q \times (\Sigma \cup \{\epsilon\}) \to \mathcal{P}(Q)$. A note for the distinction of this definition of $\delta$ will be made here. #TO-DO 
 - $q_0 \in Q$ is the start state.
 - $F \subseteq Q$ is the set of accepting (or final) states.
 
@@ -101,4 +101,4 @@ Let $S_0 = \mathcal{E}(q)$ be the $\epsilon$-closure of the state $q$. From this
 - (a) If $q \xRightarrow{w} q'$ based on the definition earlier, then there exists states $q_1, q_2, ..., q_n$ such that $q \xrightarrow{a_1} q_1 \xrightarrow{a_2} q_2 \xrightarrow{a_3} ... \xrightarrow{a_{n+1}} q'$. 
 - (b) If there exists $q_1, q_2, ..., q_n$ such that $q \xrightarrow{a_1} q_1 \xrightarrow{a_2} q_2 \xrightarrow{a_3} ... \xrightarrow{a_{n+1}} q'$, then $q \xRightarrow{w} q'$ according to our original definition.
 
-We can prove (a) by doing the following. Since $q\xRightarrow{w}q'$ means:
+We can prove (a) by doing the following. Since $q\xRightarrow{w}q'$ means:  Incomplete proof as of yet...

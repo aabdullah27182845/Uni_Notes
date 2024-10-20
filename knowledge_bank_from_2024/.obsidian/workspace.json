@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year_2/models_of_computation/Epsilon.md",
+                "file": "year_2/models_of_computation/Subset Construction Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epsilon"
+              "title": "Subset Construction Rule"
             }
           },
           {
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year_2/models_of_computation/Epsilon.md",
+                "file": "year_2/models_of_computation/Subset Construction Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Epsilon"
+              "title": "Backlinks for Subset Construction Rule"
             }
           },
           {
@@ -154,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year_2/models_of_computation/Epsilon.md",
+                "file": "year_2/models_of_computation/Subset Construction Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Epsilon"
+              "title": "Outgoing links from Subset Construction Rule"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year_2/models_of_computation/Epsilon.md"
+                "file": "year_2/models_of_computation/Subset Construction Rule.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Epsilon"
+              "title": "Outline of Subset Construction Rule"
             }
           }
         ]
@@ -206,21 +206,27 @@
   },
   "active": "eb9421008a73b86e",
   "lastOpenFiles": [
-    "imgs/Pasted image 20241018174527.png",
-    "year_2/models_of_computation/Language for M.md",
     "year_2/models_of_computation/Epsilon.md",
+    "year_2/compilers/Lexers.md",
+    "year_2/compilers/Formal Definition.md",
+    "year_2/compilers/Code for Expressions.md",
+    "year_2/machine_learning/Formal Definition.md",
+    "year_2/machine_learning/Revision.md",
+    "imgs/Pasted image 20241019190355.png",
+    "imgs/Pasted image 20241019190213.png",
+    "year_2/models_of_computation/Subset Construction Rule.md",
+    "year_2/models_of_computation/Theorems Under NFAs.md",
+    "year_2/models_of_computation/Non-deterministic Finite Automata.md",
     "year_2/models_of_computation/Deterministic Finite Automata.md",
     "year_2/models_of_computation/Operations on a DFA.md",
-    "year_2/models_of_computation/Non-deterministic Finite Automata.md",
+    "year_2/models_of_computation/Push-down Automaton.md",
+    "year_2/models_of_computation/Language for M.md",
+    "imgs/Pasted image 20241018181558.png",
+    "imgs/Pasted image 20241018174527.png",
     "year_2/compilers/Lexical Analysis.md",
     "year_2/probability/Modes of Convergence.md",
-    "year_2/compilers/Code for Expressions.md",
     "year_2/compilers/Syntax Analysis.md",
-    "year_2/compilers/Formal Definition.md",
-    "year_2/machine_learning/Revision.md",
     "year_2/compilers",
-    "year_2/machine_learning/Formal Definition.md",
-    "year_2/models_of_computation/Push-down Automaton.md",
     "imgs/Pasted image 20241016161416.png",
     "year_2/probability/Probability Space.md",
     "year_2/probability/Random Variable.md",
