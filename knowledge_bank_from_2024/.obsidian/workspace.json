@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9babb07811151efb",
+        "id": "9bc741a81a4d9def",
         "type": "tabs",
         "children": [
           {
-            "id": "eb9421008a73b86e",
+            "id": "979935eb781725be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year_2/models_of_computation/Subset Construction Rule.md",
+                "file": "year_2/models_of_computation/Equivalence over Regular Expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subset Construction Rule"
-            }
-          },
-          {
-            "id": "4280537df2e197bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "year_2/compilers/Lexical Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lexical Analysis"
-            }
-          },
-          {
-            "id": "14e5afc0c683ef94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "year_2/probability/Modes of Convergence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modes of Convergence"
-            }
-          },
-          {
-            "id": "53e70a36ede2acd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "year_2/probability/Random Variable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Random Variable"
+              "title": "Equivalence over Regular Expressions"
             }
           }
         ]
@@ -186,12 +144,23 @@
               "icon": "lucide-list",
               "title": "Outline of Subset Construction Rule"
             }
+          },
+          {
+            "id": "fd015fce58321183",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -201,42 +170,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb9421008a73b86e",
+  "active": "979935eb781725be",
   "lastOpenFiles": [
-    "year_2/models_of_computation/Epsilon.md",
-    "year_2/compilers/Lexers.md",
-    "year_2/compilers/Formal Definition.md",
-    "year_2/compilers/Code for Expressions.md",
-    "year_2/machine_learning/Formal Definition.md",
-    "year_2/machine_learning/Revision.md",
-    "imgs/Pasted image 20241019190355.png",
-    "imgs/Pasted image 20241019190213.png",
-    "year_2/models_of_computation/Subset Construction Rule.md",
+    "year_2/models_of_computation/Equivalence of FA's and Regular Expressions.md",
+    "year_2/models_of_computation/Equivalence over Regular Expressions.md",
+    "year_2/models_of_computation/Language for M.md",
+    "year_2/models_of_computation/Regular Expressions.md",
     "year_2/models_of_computation/Theorems Under NFAs.md",
-    "year_2/models_of_computation/Non-deterministic Finite Automata.md",
-    "year_2/models_of_computation/Deterministic Finite Automata.md",
+    "imgs/Pasted image 20241022141108.png",
+    "imgs/Pasted image 20241021234850.png",
+    "imgs/Pasted image 20241021234638.png",
+    "Excalidraw/nfa_added.md",
+    "Excalidraw/base_case_nfa.md",
+    "Excalidraw/base_case_nfa 1.md",
+    "year_2/compilers/Problem Sheets/Problem Sheet 1.md",
+    "Excalidraw/Drawing 2024-10-20 18.37.38.excalidraw.md",
+    "imgs/Pasted image 20241021125632.png",
+    "imgs/Pasted image 20241021011317.png",
+    "imgs/Pasted image 20241021012759.png",
+    "imgs/Pasted image 20241016104139.png",
+    "imgs/Pasted image 20241013211408.png",
+    "Excalidraw/Drawing 2024-10-21 11.26.57.excalidraw.md",
+    "imgs/Pasted image 20241021152443.png",
     "year_2/models_of_computation/Operations on a DFA.md",
     "year_2/models_of_computation/Push-down Automaton.md",
-    "year_2/models_of_computation/Language for M.md",
-    "imgs/Pasted image 20241018181558.png",
-    "imgs/Pasted image 20241018174527.png",
-    "year_2/compilers/Lexical Analysis.md",
-    "year_2/probability/Modes of Convergence.md",
+    "year_2/models_of_computation/Subset Construction Rule.md",
+    "year_2/compilers/Lexers.md",
+    "year_2/compilers/Regular Expressions.md",
     "year_2/compilers/Syntax Analysis.md",
+    "imgs/Pasted image 20241021011117.png",
+    "year_2/probability/Modes of Convergence.md",
+    "year_2/compilers/Formal Definition.md",
+    "year_2/compilers/Code for Expressions.md",
+    "Excalidraw",
+    "year_2/models_of_computation/Non-deterministic Finite Automata.md",
+    "year_2/compilers/Lexical Analysis.md",
+    "year_2/compilers/Problem Sheets",
+    "year_2/models_of_computation/Epsilon.md",
+    "year_2/machine_learning/Formal Definition.md",
+    "year_2/machine_learning/Revision.md",
+    "year_2/models_of_computation/Deterministic Finite Automata.md",
     "year_2/compilers",
-    "imgs/Pasted image 20241016161416.png",
-    "year_2/probability/Probability Space.md",
-    "year_2/probability/Random Variable.md",
     "year_2/machine_learning",
-    "imgs/Pasted image 20241016104225.png",
-    "imgs/Pasted image 20241016104139.png",
-    "Welcome.md",
     "year_2/probability",
-    "year_2/Untitled.md",
-    "imgs/Pasted image 20241013211408.png",
     "imgs",
     "year_2/models_of_computation",
     "year_2"

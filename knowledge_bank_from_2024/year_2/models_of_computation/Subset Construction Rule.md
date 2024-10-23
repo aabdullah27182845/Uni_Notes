@@ -48,7 +48,7 @@ $$Hence, $u \in L(N)$. $QED$.
 
 **Intuitive Understanding of the Proof:** $\epsilon$-transitions indicate to us which states we could be in. Our proof here, poorly conveying this idea, is indicating that each state in our DFA is a possible state that we could be in from the previous state. 
 
-To create the transition function $\delta_{\mathcal{P}N}$ from the NFA, we have to talk about the $\epsilon$-closure of each state, and then construct each state as a subset of states we could be at, given the transitions that have just occurred. You can see how $\epsilon$-closure is important, since we aren't allowed those in DFA. We need to construct our subsets so that every $\epsilon$-transition is also taken care of and considered.
+To create the transition function $\delta_{\mathcal{P}N}$ from the NFA, we have to talk about the $\epsilon$-closure of each state, and then construct each state as a subset of states we could be at, given the transitions that have just occurred. You can see how $\epsilon$-closure is important, since we aren't allowed those in DFA. We need to construct our subsets so that every $\epsilon$-transition is also taken care of.
 
 Another intuitive point: **Either I did, or I did not make that $\epsilon$-transition. This means that there are $2^n$ different possible arrangements, hence the power-set construction.** This point is counter intuitive in trying to reason and build $\delta_{\mathcal{P}N}$, but it does attest to the fact that a DFA would be exponentially larger than an NFA.
 
