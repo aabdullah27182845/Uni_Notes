@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc741a81a4d9def",
+        "id": "4d34acb743193f17",
         "type": "tabs",
         "children": [
           {
-            "id": "979935eb781725be",
+            "id": "131fa9b81abd88ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year_2/models_of_computation/Equivalence over Regular Expressions.md",
+                "file": "year_2/models_of_computation/The.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equivalence over Regular Expressions"
+              "title": "The"
             }
           }
         ]
@@ -175,11 +175,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "979935eb781725be",
+  "active": "131fa9b81abd88ea",
   "lastOpenFiles": [
-    "year_2/models_of_computation/Equivalence of FA's and Regular Expressions.md",
+    "year_2/models_of_computation/Kozen's Axioms.md",
+    "year_2/models_of_computation/The.md",
+    "year_2/data_visualisation/Problem Sheet 1.md",
+    "year_2/data_visualisation/Problem Sheet 1.pdf",
     "year_2/models_of_computation/Equivalence over Regular Expressions.md",
     "year_2/models_of_computation/Language for M.md",
+    "year_2/models_of_computation/Deterministic Finite Automata.md",
+    "year_2/machine_learning/Revision.md",
+    "year_2/machine_learning/Formal Definition.md",
+    "year_2/compilers/Problem Sheets/Problem Sheet 1.md",
+    "year_2/data_visualisation",
+    "year_2/compilers/Problem Sheets/Problem Sheet 1.pdf",
+    "End of Half Term Test.md",
+    "year_2/models_of_computation/Equivalence of FA's and Regular Expressions.md",
     "year_2/models_of_computation/Regular Expressions.md",
     "year_2/models_of_computation/Theorems Under NFAs.md",
     "imgs/Pasted image 20241022141108.png",
@@ -188,7 +199,6 @@
     "Excalidraw/nfa_added.md",
     "Excalidraw/base_case_nfa.md",
     "Excalidraw/base_case_nfa 1.md",
-    "year_2/compilers/Problem Sheets/Problem Sheet 1.md",
     "Excalidraw/Drawing 2024-10-20 18.37.38.excalidraw.md",
     "imgs/Pasted image 20241021125632.png",
     "imgs/Pasted image 20241021011317.png",
@@ -206,20 +216,12 @@
     "imgs/Pasted image 20241021011117.png",
     "year_2/probability/Modes of Convergence.md",
     "year_2/compilers/Formal Definition.md",
-    "year_2/compilers/Code for Expressions.md",
     "Excalidraw",
-    "year_2/models_of_computation/Non-deterministic Finite Automata.md",
-    "year_2/compilers/Lexical Analysis.md",
     "year_2/compilers/Problem Sheets",
-    "year_2/models_of_computation/Epsilon.md",
-    "year_2/machine_learning/Formal Definition.md",
-    "year_2/machine_learning/Revision.md",
-    "year_2/models_of_computation/Deterministic Finite Automata.md",
     "year_2/compilers",
     "year_2/machine_learning",
     "year_2/probability",
     "imgs",
-    "year_2/models_of_computation",
-    "year_2"
+    "year_2/models_of_computation"
   ]
 }

@@ -138,3 +138,41 @@ You can imagine an NFA with two $\epsilon$-transitions that both end with an acc
 **1.7**: In the language of Lab 1, `if` statements have an explicit terminator end that removes the ambiguity discussed in the preceding exercise. However, this makes it cumbersome to write a chain of if tests, since the end keyword must be repeated once for each `if`. Show how to change the parser from Lab 1 to allow the syntax shown on the left in Figure 1 as an abbreviation for the language of Lab 1, `if` statements have an explicit terminator end that removes the ambiguity discussed in the preceding exercise. However, this makes it cumbersome to write a chain of `if` tests, since the end keyword must be repeated once for each `if`. Show how to change the parser from Lab 1 to allow the syntax shown on the left in Figure 1 as an abbreviation for the syntax on the right. An arbitrarily long chain of tests written with the keyword `elsif` can have a single end; the else part remains optional. Arrange for the parser to build the same abstract syntax tree for the abbreviated program as it would for its equivalent written without `elsif`. Here is the figure which was referenced:
 
 ![[Pasted image 20241021152443.png]]
+Goal: The goal is to find a suitable expression that not only removes the need for an "end" keyword, but also deals with the "hanging else" problem. 
+
+```pascal
+stmt :
+    IF expr THEN stmt %prec IF        { IfStmt($2, $4, Skip) }
+  | IF expr THEN stmt ELSE stmt       { IfStmt($2, $4, $6) }
+  | other_statements ;
+```
+
+The `%prec IF` is a precedent rule that ensures the `else` associated with the nearest preceding `if`. What we have done here is that the closest unmatched if statement is the one that receives the else clause. 
+
+Although not a complete solution, it is one where some level of freedom is taken away from the programmer in order to make the program more consistent and unambiguous.
+
+---
+
+**1.8**: One grammar for lists of identifiers contains the productions, 
+
+```
+idlist ->    id 
+        |    idlist "," id 
+```
+
+(we call this left recursive), and another (right recursive) contains the productions, 
+
+```
+idlist ->    id 
+        |    id "," idlist 
+```
+
+In parsing a list of 100 identifiers, how much space on the parser stack is needed by shift–reduce parsers based on these two grammars? Which grammar is more convenient if we want to build an abstract syntax tree that is a list built with cons?
+
+
+**Proposition**: Using right recursive shifts is far better than using left recursive lists. 
+
+The reason behind this is that when using left recursive shifts, each and every one of the 100 identifiers need to be on the stack, (assuming left is evaluated first). This would mean that more storage would be required in the beginning of parsing in every identifier, unlike right recursive shifts. You can deal with identifiers one at a time, saving space. 
+
+It's somewhat akin to Haskell's `foldl` and `foldr` functions, where `foldr` is typically used over `foldl` due to that exact reason.
+
