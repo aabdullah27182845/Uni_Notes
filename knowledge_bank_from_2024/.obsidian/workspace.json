@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d34acb743193f17",
+        "id": "0d58ac68f2924f39",
         "type": "tabs",
         "children": [
           {
-            "id": "131fa9b81abd88ea",
+            "id": "651b5c9d46e4aefc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year_2/models_of_computation/The.md",
+                "file": "year_2/models_of_computation/Pushdown-Context Free Equivalence Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The"
+              "title": "Pushdown-Context Free Equivalence Theorem"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.5
   },
   "right": {
     "id": "57463d983dafa3b5",
@@ -175,53 +175,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "131fa9b81abd88ea",
+  "active": "651b5c9d46e4aefc",
   "lastOpenFiles": [
+    "imgs/Pasted image 20241120151154.png",
+    "year_2/models_of_computation/Non-Deterministic Push-down Automata.md",
+    "year_2/models_of_computation/Pushdown-Context Free Equivalence Theorem.md",
+    "imgs/Pasted image 20241120145152.png",
+    "imgs/Pasted image 20241120144032.png",
+    "imgs/Pasted image 20241120105717.png",
+    "imgs/Pasted image 20241120104423.png",
+    "imgs/Pasted image 20241013211408.png",
+    "imgs/Pasted image 20241120104343.png",
+    "year_2/models_of_computation/Chomsky Normal Form & Pumping Lemma.md",
+    "year_2/models_of_computation/Parse Trees.md",
+    "imgs/Pasted image 20241113144324.png",
+    "End of Half Term Test.md",
+    "imgs/Pasted image 20241113141647.png",
+    "imgs/Pasted image 20241113140357.png",
+    "imgs/Pasted image 20241112143554.png",
+    "year_2/models_of_computation/Right Linear Theorem.md",
+    "year_2/models_of_computation/Context-Free Grammars.md",
+    "year_2/models_of_computation/Deterministic Finite Automata.md",
+    "year_2/compilers/Problem Sheets/Problem Sheet 2.md",
+    "year_2/compilers/Problem Sheets/Problem Sheet 2.pdf",
+    "year_2/compilers/Problem Sheets/Problem Sheet 1.pdf",
+    "year_2/compilers/Problem Sheets/Problem Sheet 1.md",
+    "year_2/models_of_computation/The Pumping Lemma.md",
+    "year_2/models_of_computation/Non-deterministic Finite Automata.md",
+    "year_2/models_of_computation/Myhill-Nerode Theorem.md",
+    "year_2/models_of_computation/Theorems Under NFAs.md",
     "year_2/models_of_computation/Kozen's Axioms.md",
-    "year_2/models_of_computation/The.md",
     "year_2/data_visualisation/Problem Sheet 1.md",
     "year_2/data_visualisation/Problem Sheet 1.pdf",
     "year_2/models_of_computation/Equivalence over Regular Expressions.md",
     "year_2/models_of_computation/Language for M.md",
-    "year_2/models_of_computation/Deterministic Finite Automata.md",
     "year_2/machine_learning/Revision.md",
     "year_2/machine_learning/Formal Definition.md",
-    "year_2/compilers/Problem Sheets/Problem Sheet 1.md",
     "year_2/data_visualisation",
-    "year_2/compilers/Problem Sheets/Problem Sheet 1.pdf",
-    "End of Half Term Test.md",
     "year_2/models_of_computation/Equivalence of FA's and Regular Expressions.md",
     "year_2/models_of_computation/Regular Expressions.md",
-    "year_2/models_of_computation/Theorems Under NFAs.md",
-    "imgs/Pasted image 20241022141108.png",
-    "imgs/Pasted image 20241021234850.png",
-    "imgs/Pasted image 20241021234638.png",
     "Excalidraw/nfa_added.md",
     "Excalidraw/base_case_nfa.md",
     "Excalidraw/base_case_nfa 1.md",
-    "Excalidraw/Drawing 2024-10-20 18.37.38.excalidraw.md",
-    "imgs/Pasted image 20241021125632.png",
-    "imgs/Pasted image 20241021011317.png",
-    "imgs/Pasted image 20241021012759.png",
-    "imgs/Pasted image 20241016104139.png",
-    "imgs/Pasted image 20241013211408.png",
-    "Excalidraw/Drawing 2024-10-21 11.26.57.excalidraw.md",
-    "imgs/Pasted image 20241021152443.png",
-    "year_2/models_of_computation/Operations on a DFA.md",
-    "year_2/models_of_computation/Push-down Automaton.md",
-    "year_2/models_of_computation/Subset Construction Rule.md",
-    "year_2/compilers/Lexers.md",
-    "year_2/compilers/Regular Expressions.md",
-    "year_2/compilers/Syntax Analysis.md",
-    "imgs/Pasted image 20241021011117.png",
-    "year_2/probability/Modes of Convergence.md",
-    "year_2/compilers/Formal Definition.md",
     "Excalidraw",
     "year_2/compilers/Problem Sheets",
     "year_2/compilers",
     "year_2/machine_learning",
     "year_2/probability",
-    "imgs",
-    "year_2/models_of_computation"
+    "imgs"
   ]
 }

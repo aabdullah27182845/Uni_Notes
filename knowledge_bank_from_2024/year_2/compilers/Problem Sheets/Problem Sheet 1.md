@@ -176,3 +176,9 @@ The reason behind this is that when using left recursive shifts, each and every 
 
 It's somewhat akin to Haskell's `foldl` and `foldr` functions, where `foldr` is typically used over `foldl` due to that exact reason.
 
+
+Do these questions:
+1. Exercises 1.1-1.8  
+>> 2. Exercises 2.1, 2.2, 2.4 (a,b), 2.7, 2.8, 3.1, 3.2, 3.4  
+>> 3. Exercises 4.1-4.5  
+>> 4. Exercises 5.1-5.10
